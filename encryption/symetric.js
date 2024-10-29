@@ -25,7 +25,7 @@ function decrypt(encryptedText) {
 
 
 // Encrypt a message
-const message = "This is a secret message";
+const message = "This_is_a_secret_message";
 const encryptedMessage = encrypt(message);
 
 
